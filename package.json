@@ -1,0 +1,22 @@
+{
+  "name": "electrontasklist",
+  "version": "1.0.0",
+  "description": "Task list using elcetron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellbell1220/Task-List---Electron.git"
+  },
+  "author": "Kelli Stasiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellbell1220/Task-List---Electron/issues"
+  },
+  "homepage": "https://github.com/kellbell1220/Task-List---Electron#readme",
+  "dependencies": {
+    "electron": "^1.7.9"
+  }
+}

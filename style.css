@@ -1,0 +1,30 @@
+body{
+    background:#98b398;
+	background: url("parchment.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	overflow:auto;
+    color:#e2dfd1;
+}
+
+h1 {
+	margin: .5em;
+	text-align: center;
+	font-size: 5em;
+	color:#050505;
+	clear:both;
+}
+
+li{
+	font-size: 3em;
+	color:black;
+}
+
+#addForm{
+	margin: 1em;
+	color:black;
+}
+
+#addButton{
+    margin:1em;
+}
